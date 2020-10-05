@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi there, I am [yrPang](https://blog.yrpang.com). 👋
+
+I’m a junior student at [Xidian University](https://en.xidian.edu.cn/). I am also a member of [Micrisoft Student Ambassador](https://studentambassadors.microsoft.com/zh-CN/profile/46705). 
+
+🌱 **I currently learning:**
+
+- Web development(Vue & Django)
+- NLP
+
+📫 **How to reach me:**
+
+- [Twitter](https://twitter.com/yrpang)
+- [知乎](https://www.zhihu.com/people/yrpang)
+- 微信公众号: 猿之屋
+
+
+----
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yrpang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **yrpang/yrpang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-- 🔭 I’m currently studying at Xidian University. 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yrpang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
