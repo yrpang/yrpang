@@ -2,7 +2,7 @@
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yrpang.yrpang)
 
-I’m a junior student at [Xidian University](https://en.xidian.edu.cn/). I am also a member of [Micrisoft Student Ambassador](https://studentambassadors.microsoft.com/zh-CN/profile/46705). 
+I’m a junior student at [Xidian University](https://en.xidian.edu.cn/). I am also a member of [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/zh-CN/profile/46705). 
 
 🌱 **I currently learning:**
 
