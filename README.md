@@ -17,7 +17,7 @@ I’m a junior student at [Xidian University](https://en.xidian.edu.cn/). I am a
 
 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrpang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yrpang&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
