@@ -6,8 +6,9 @@ I’m a junior student at [Xidian University](https://en.xidian.edu.cn/). I am a
 
 🌱 **I currently learning:**
 
-- Web development(Vue & Django)
-- NLP
+- Computer Network
+- FPGA
+- SmartNIC
 
 📫 **How to reach me:**
 
