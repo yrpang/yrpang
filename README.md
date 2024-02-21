@@ -4,9 +4,7 @@
 
 I am a second-year master's student at Tianjin University. I obtained my bachelor's degree from the School of Computer Science and Technology at [Xidian University](https://en.xidian.edu.cn/) in 2022. I am also a member of [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/zh-CN/profile/46705). 
 
-My primary research focus lies in data center networking, encompassing congestion control, network function acceleration using eBPF and DPDK, and smart NICs based on FPGA. 
-
-In my spare time, I am a web developer, with experience in Next.js, Node.js and Django frameworks.
+My primary research focus lies in data center networking, encompassing congestion control, network function acceleration using eBPF and DPDK, and smart NICs based on FPGA. In my spare time, I am a web developer, with experience in Next.js, Node.js and Django frameworks.
 
 🌱 **I currently learning:**
 
