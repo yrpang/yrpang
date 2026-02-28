@@ -9,10 +9,15 @@ During my academic research, I focused on data center networking, including cong
 
 In my spare time, I'm passionate about building AI applications. I enjoy full-stack development with Next.js and Go.
 
-----
 ![Top Langs](./profile/top-langs.svg)
 
-![GitHub Stats](./profile/stats.svg)
+### My Side Projects
+
+- **[Clawvival](https://github.com/yrpang/Clawvival)**: Agent-first 2D survival sandbox backend where AI agents play autonomously with human oversight and strategy (Go, OpenClaw integration)
+
+![ClawVival](./profile/pin-clawvival.svg)
+
+
 
 <!--
 **yrpang/yrpang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
